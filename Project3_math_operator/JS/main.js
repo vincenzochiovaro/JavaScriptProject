@@ -52,5 +52,5 @@ function DecrementFun () { //The opposite of increment operator
 }
 function randomnumb () {   // function to create a random numb everytime you click on it
        var d = window.alert (Math.random()*100);
-       document.getElementById(randomnumb).innerHTML
+       document.getElementById(randomnumb).innerHTML;
 }
